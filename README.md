@@ -7,14 +7,9 @@
 <h2>Get Started Today</h2>
 <p>Explore our repository, download the projects that best suit your needs, and discover how Power BI can transform the way you understand and manage your data. If you have any questions or need support, don't hesitate to contact us. We're here to help you get the most out of your data!</p>
 
-
+<h1>Dashboard Pink</h1>
 <div style="display: flex; gap: 10px;">
     <div style="flex: 1; text-align: center;">
-        <img src="URL_of_your_image_1" alt="Report 1" style="width: 100%; max-width: 400px;">
-        <p>Report 1 Description</p>
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="URL_of_your_image_2" alt="Report 2" style="width: 100%; max-width: 400px;">
-        <p>Report 2 Description</p>
+        <img src="Dashboard_Teleperformance.PNG" alt="Report 1" style="width: 100%; max-width: 300px;">
     </div>
 </div>
